@@ -1,5 +1,8 @@
 # enc28j60
-Atmega328 and enc28j60 equally gate for UART &lt;> Ethernet
+UART<>EThernet gate with Atmega328-au (pu) and enc28j60
 
-If you want use Ethernet in your project and need end-to-end transmission from UART to Ethernet, this is for you need
+If you want use Ethernet connection in your project and need end-to-end transmission from UART (up 115200) to Ethernet and back, you can use FREE my project.
 
+For schematic please download http://serja.ru/shematic.zip
+
+if you have question: serjaru@gmail.com
